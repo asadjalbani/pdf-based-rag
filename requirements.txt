@@ -1,0 +1,7 @@
+langchain
+langchain_groq
+langchain_community
+langchain_huggingface
+PyPDF2
+faiss-cpu
+python-dotenv
